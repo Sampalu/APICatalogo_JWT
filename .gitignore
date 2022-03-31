@@ -1,0 +1,12 @@
+# Compiled
+*.dll
+
+# Log file
+*.log
+
+*.suo
+*.user
+bin/
+obj/
+Debug/
+Release/
